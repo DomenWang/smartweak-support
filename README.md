@@ -1,3 +1,3 @@
-# SmartWeak Support
+# SmartWake Support
 
-Static support and privacy pages for SmartWeak. Publish this directory with GitHub Pages.
+Static support, privacy, and terms pages for SmartWake. Publish this directory with GitHub Pages.
